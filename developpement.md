@@ -1,6 +1,7 @@
 # dépot de développement
 - https://github.com/MapContrib/MapContrib/issues
 - Licence / MIT pour le moment, intégration de code propriétaire selon les interactions avec certains SIG ?
+
 ## les instances en cours
 - rudomap.xyz
 - cartes.xyz
@@ -9,6 +10,7 @@
 - handi.cartes.xyz
 - tiers-lieux.cartes.xyz
 - don-bosco.cartes.xyz
+
 # les livrables
 ## Phase 1
 - Affichage :
