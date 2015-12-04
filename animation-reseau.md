@@ -11,3 +11,5 @@
 - sans doute des sorties sur le premier trimestre 2016
 ## SMICOTOM
 - rendez vous le 12 janvier avec Candice (comm et prévention)
+# Osmose pour les données
+- en cours de discussion
