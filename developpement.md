@@ -2,7 +2,7 @@
 - https://github.com/MapContrib/MapContrib/issues
 - Licence / MIT pour le moment, intégration de code propriétaire selon les interactions avec certains SIG ?
 
-## les instances en cours
+# les instances en cours
 - rudomap.xyz
 - cartes.xyz
 - velo.cartes.xyz
