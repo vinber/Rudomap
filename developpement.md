@@ -19,4 +19,3 @@
 
 -Ergonomie :
  - séparer visuellement les différentes fonctions (affichage, contribution, configuration),
-
